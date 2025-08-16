@@ -17,5 +17,6 @@ func main() {
 
 	//floats
 	fmt.Println(1.0 + 1.5)
+	fmt.Println(7.0 / 3.0)
 
 }
