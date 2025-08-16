@@ -25,7 +25,6 @@ func main() {
 	// we can use "break" and "continue" if needed
 
 	//1.22V    range
-
 	for i := range 3 {
 		fmt.Println(i)
 	}
