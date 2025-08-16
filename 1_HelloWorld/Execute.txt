@@ -1,0 +1,3 @@
+go build /path ---> it will create .exe
+go run /path ----> it will build and run aswell
+
